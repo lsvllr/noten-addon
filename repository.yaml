@@ -1,0 +1,5 @@
+# Wird von der GitHub Action (.github/workflows/image.yml im Noten-tracker-Repo) nach lsvllr/noten-addon kopiert.
+# Hier ändern, nicht im Add-on-Repo.
+name: Noten-Tracker
+url: https://github.com/lsvllr/noten-addon
+maintainer: Elias
