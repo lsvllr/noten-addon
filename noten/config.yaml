@@ -1,7 +1,7 @@
 # Version setzt die GitHub Action bei jedem Build auf das Tag des Images (sha-<7 Zeichen>).
 name: Noten-Tracker
 description: Module, LP und Noten pro Studiengang
-version: "sha-af381ec"
+version: "sha-2a365e8"
 slug: noten
 url: https://github.com/lsvllr/noten-addon
 arch:
